@@ -13,8 +13,11 @@ The Order Book Simulator is a C++ application that simulates an order book for t
 
 # Usage
 1. Clone the repository or download the source code files.
-2. Compile the Order_Book_Simulator.cpp file using a C++ compiler.
-3. Run the compiled executable to execute the Order Book Simulator.
+```
+  git clone https://github.com/kemalkochekov/Order-Book-Simulator.git
+```
+3. Compile the Order_Book_Simulator.cpp file using a C++ compiler.
+4. Run the compiled executable to execute the Order Book Simulator.
 
 # Adding Orders
 To add an order, you need to provide the following information:
